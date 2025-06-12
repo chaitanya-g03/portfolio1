@@ -1,4 +1,4 @@
-# 💼 Chaitanya Goel's Portfolio Website
+# 💼 Chaitanya Gangapuram's Portfolio Website
 
 Welcome to my personal portfolio website, created to showcase my professional profile, technical skills, and data-driven projects. Built using **HTML**, **CSS**, and optionally **JavaScript**, this static website is deployed using **GitHub Pages**.
 
